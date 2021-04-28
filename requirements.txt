@@ -1,0 +1,2 @@
+keyboard	# for keyboard control/listening
+pyautogui	# for detecting the "Skip Intro" button on-screen
