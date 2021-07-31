@@ -23,7 +23,7 @@ This project was created in Python, for personal use, since Amazon Prime Video d
 - Hotkey to exit the tool: **\ (Backslash)**
 
 ## Optimization
-Since the program is designed to indefinitely look for the "Skip Intro" button *and* listen for key strokes (in the case of "Hotkey Skip.pyw") until terminated in order to serve its purpose, the consumption of resources (CPU) has also been minimized and optimized; so the program can be left running in the background for as long as required, or even be scheduled to run automatically at every system start (by placing the shortcut of either .pyw file in the **\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup** directory) without any prominent CPU usage.
+Since the program is designed to indefinitely look for the "Skip Intro" button *and* listen for key strokes (in the case of "Hotkey Skip.pyw") until terminated in order to serve its purpose, the consumption of resources (CPU) has also been minimized and optimized; so the program can be left running in the background for as long as required.
 
 ## Dependencies to PIP-Install
 - **keyboard** (for keyboard control/listening)
